@@ -10,7 +10,8 @@ Designing UI/UX = Figma <br/>
 Front-end = html,css <br/>
 Back-end = php <br/>
 
-Diagram alur kerja sistem(flowchart): + Flowchartdeasy.jpg
+Diagram alur kerja sistem(flowchart): 
+![](Flowchartdeasy.jpg)
 
 **Portofolio Saya**
 https://sites.google.com/view/portofoliodeasyhana/sertifikat
